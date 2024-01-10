@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TugasIndividuPakarifin</string>
+    <string name="tinggi_cm">centimeter\n</string>
+    <string name="berat_kg">kilogram</string>
+</resources>
